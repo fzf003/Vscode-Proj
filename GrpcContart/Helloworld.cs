@@ -8,7 +8,7 @@ using pbc = global::Google.Protobuf.Collections;
 using pbr = global::Google.Protobuf.Reflection;
 using scg = global::System.Collections.Generic;
 namespace Helloworld {
-
+   
   /// <summary>Holder for reflection information generated from helloworld.proto</summary>
   public static partial class HelloworldReflection {
 
