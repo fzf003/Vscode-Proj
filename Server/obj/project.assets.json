@@ -12734,30 +12734,30 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Actor\\API\\consoleapp\\Server\\Server.csproj",
+      "projectUniqueName": "F:\\Vscode-Proj\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "F:\\Actor\\API\\consoleapp\\Server\\Server.csproj",
+      "projectPath": "F:\\Vscode-Proj\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "F:\\Actor\\API\\consoleapp\\Server\\obj\\",
+      "outputPath": "F:\\Vscode-Proj\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "F:\\Actor\\API\\consoleapp\\NuGet.Config",
         "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Users\\Leo\\.dotnet\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\Actor\\API\\consoleapp\\GrpcContart\\GrpcContart.csproj": {
-              "projectPath": "F:\\Actor\\API\\consoleapp\\GrpcContart\\GrpcContart.csproj"
+            "F:\\Vscode-Proj\\GrpcContart\\GrpcContart.csproj": {
+              "projectPath": "F:\\Vscode-Proj\\GrpcContart\\GrpcContart.csproj"
             }
           }
         }
