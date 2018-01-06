@@ -1,0 +1,8 @@
+F:\Actor\API\consoleapp\GrpcContart\bin\Debug\netstandard2.0\GrpcContart.deps.json
+F:\Actor\API\consoleapp\GrpcContart\bin\Debug\netstandard2.0\GrpcContart.dll
+F:\Actor\API\consoleapp\GrpcContart\bin\Debug\netstandard2.0\GrpcContart.pdb
+F:\Actor\API\consoleapp\GrpcContart\obj\Debug\netstandard2.0\GrpcContart.csproj.CoreCompileInputs.cache
+F:\Actor\API\consoleapp\GrpcContart\obj\Debug\netstandard2.0\GrpcContart.AssemblyInfoInputs.cache
+F:\Actor\API\consoleapp\GrpcContart\obj\Debug\netstandard2.0\GrpcContart.AssemblyInfo.cs
+F:\Actor\API\consoleapp\GrpcContart\obj\Debug\netstandard2.0\GrpcContart.dll
+F:\Actor\API\consoleapp\GrpcContart\obj\Debug\netstandard2.0\GrpcContart.pdb

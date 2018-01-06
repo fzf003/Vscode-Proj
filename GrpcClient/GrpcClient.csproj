@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GrpcContart\GrpcContart.csproj"/>
+    <PackageReference Include="Google.Protobuf" Version="3.5.1"/>
+    <PackageReference Include="Grpc.Core" Version="1.8.0"/>
+    <PackageReference Include="System.Interactive.Async" Version="3.1.1"/>
+    <PackageReference Include="grpc.native.csharp" Version="0.13.1"/>
+    <PackageReference Include="System.Reactive" Version="4.0.0-preview00001"/>
+      <PackageReference Include="System.Reactive.Linq" Version="4.0.0-preview00001"/>
+        <PackageReference Include="System.Reactive.Core" Version="4.0.0-preview00001"/>
+  </ItemGroup>
+</Project>

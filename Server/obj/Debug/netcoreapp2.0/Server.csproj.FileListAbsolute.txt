@@ -1,0 +1,12 @@
+F:\Actor\API\consoleapp\server\bin\Debug\netcoreapp2.0\Server.deps.json
+F:\Actor\API\consoleapp\server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.json
+F:\Actor\API\consoleapp\server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.dev.json
+F:\Actor\API\consoleapp\server\bin\Debug\netcoreapp2.0\Server.dll
+F:\Actor\API\consoleapp\server\bin\Debug\netcoreapp2.0\Server.pdb
+F:\Actor\API\consoleapp\server\obj\Debug\netcoreapp2.0\Server.csproj.CoreCompileInputs.cache
+F:\Actor\API\consoleapp\server\obj\Debug\netcoreapp2.0\Server.AssemblyInfoInputs.cache
+F:\Actor\API\consoleapp\server\obj\Debug\netcoreapp2.0\Server.AssemblyInfo.cs
+F:\Actor\API\consoleapp\server\obj\Debug\netcoreapp2.0\Server.dll
+F:\Actor\API\consoleapp\server\obj\Debug\netcoreapp2.0\Server.pdb
+F:\Actor\API\consoleapp\Server\bin\Debug\netcoreapp2.0\GrpcContart.dll
+F:\Actor\API\consoleapp\Server\bin\Debug\netcoreapp2.0\GrpcContart.pdb
