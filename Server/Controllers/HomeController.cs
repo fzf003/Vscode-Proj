@@ -10,7 +10,8 @@ namespace Client.Controllers
       [Route("api/[controller]/[action]")]
         public class HomeController : Controller
     {
-        [HttpGet(Name="fzf003")]
+        [HttpGet]
+        [ActionName("fzf003")]
         public Person Index()
         {
             return  new Person();
